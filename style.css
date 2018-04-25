@@ -19,12 +19,12 @@ p {
 
 .topnav {
     overflow: hidden;
-    color: black;
+    color: #000;
 }
 
 .topnav a {
     float: right;
-    color: black;
+    color: #000;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -32,7 +32,7 @@ p {
 }
 
 .topnav a:hover {
-    background-color: black;
+    background-color: #000;
     color: white;
     border-top-right-radius: 25px;
     border-bottom-right-radius: 25px;
@@ -79,7 +79,7 @@ top: 70px;
 }
 
 .scroll_down {
-background-color: black;
+background-color: #000;
 color: white;
 border-top-right-radius: 25px;
 border-bottom-right-radius: 25px;
