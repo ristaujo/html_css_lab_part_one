@@ -87,3 +87,16 @@ p {
     top: 70px;
   }
 
+  .scroll_down {
+    background-color: black;
+    color: white;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    text-align: center;
+    width: 7%;
+    margin: 0 auto;
+    margin-top: 100px;
+  }
+
