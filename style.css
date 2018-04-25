@@ -19,12 +19,12 @@ p {
 
 .topnav {
     overflow: hidden;
-    color: #000;
+    color: #69696a;
 }
 
 .topnav a {
     float: right;
-    color: #000;
+    color: #69696a;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
